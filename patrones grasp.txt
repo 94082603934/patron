@@ -1,0 +1,26 @@
+Creador: 
+Identificar al responsable de la creación es una característica importante de dicho patrón.
+
+Controlador:   
+Debe existir un intermedio entre una determinada interfaz y el algoritmo que se está empleando.
+
+Bajo acoplamiento:
+Para poder disminuir la dependencia de clases es importante fomentar la reutilización teniendo como fundamento  que las clases estén lo  menos ligadas posibles.
+
+Alta cohesión:
+La información almacenada en  una clase debe de ser coherente para  así poder estar relacionada con la misma. 
+
+Polimorfismo:  
+se puede crear un objeto de una clase polimórfica nueva teniendo como base la creación de un objeto que pueda ser reutilizable 
+	
+Invención PURA 
+Se pueden construir clases que se encarguen de la construcción de objetos a cada instante
+
+Indireccion:  
+se debe mejorar la existencia de  un bajo acoplamiento entre dos clases.
+
+No hables con extraños:
+ el método solo  esta interactuado con parámetros conocidos.
+
+Experto: 
+las responsabilidades de la ejecución recaen sobre la clase 
